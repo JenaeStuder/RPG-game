@@ -1,0 +1,49 @@
+/*
+font-family: 'Press Start 2P', cursive;
+font-family: 'Squada One', cursive;
+font-family: 'VT323', monospace;
+font-family: 'Yatra One', cursive;
+font-family: 'Frijole', cursive;
+font-family: 'Delius Unicase', cursive;
+font-family: 'Fascinate Inline', cursive;
+*/
+
+
+body{
+    background-image: url(../images/pow-star.png);
+}
+h2{
+    font-family: 'Yatra One', cursive; 
+    text-align: center;
+}
+h3{
+    font-family: 'Squada One', cursive;
+}
+h5{
+    font-family: 'Delius Unicase', cursive;
+    font-size: 20px;
+}
+#kylee{
+    height: 200px;
+    width: 150px;
+    margin: 5px;
+}
+#mullet{
+    height: 200px;
+    width: 150px;
+    margin: 5px;
+}
+#topless{
+    height: 150px;
+    width: 200px;
+    margin: 5px;
+}
+#animals{
+    height: 150px;
+    width: 200px;
+    margin: 5px;
+}
+.dogFight{
+    height: 300px;
+    width: 500px;
+}
